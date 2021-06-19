@@ -1,0 +1,28 @@
+{
+  "name": "funnycore",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "prod": "webpack --mode production",
+    "dev": "webpack --mode development",
+    "watch": "webpack --watch --mode development",
+    "serve": "npm run dev; webpack serve --mode development"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "css-loader": "^5.2.6",
+    "handlebars": "^4.7.7",
+    "html-loader": "^2.1.2",
+    "style-loader": "^2.0.0",
+    "webpack": "5.39.1",
+    "webpack-cli": "4.7.2"
+  },
+  "devDependencies": {
+    "html-webpack-plugin": "^5.3.1",
+    "interpolate-html-plugin": "^4.0.0",
+    "webpack-dev-server": "3.11.2"
+  }
+}
