@@ -1,5 +1,5 @@
 import { Funny } from "./funny";
-import Home from './components/Home.fun';
+import Home from './components/Home.funny';
 
 let routes = [
     {
