@@ -62,4 +62,4 @@ npm run serve
 
 now you just should enter `127.0.0.1:8000` on your browser.
 
-<p> check out the <a href="https://github.com/alirezaarzehgar/funny.git">funny.js</a> documentation. </p>
+<p> check out the <a href="https://alirezaarzehgar.github.io/funny">funny.js</a> documentation. </p>
