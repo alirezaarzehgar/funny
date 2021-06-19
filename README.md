@@ -61,3 +61,7 @@ npm run serve
 ```
 
 now you just should enter `127.0.0.1:8000` on your browser.
+
+<p> Simple, opensource, minimal front end library. </p>
+<p> For a guide and recipes on how to configure / customize this project, </p>
+<p> check out the <a href="https://github.com/alirezaarzehgar/funny.git">funny.js</a> documentation. </p>
