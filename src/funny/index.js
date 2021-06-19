@@ -1,1 +1,0 @@
-export { default as Funny } from './src/core/Funny';
